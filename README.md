@@ -1,4 +1,4 @@
-# Provision a VPC using CDK TypeScript
+# Provision a VPC using CDKv2 TypeScript
 
 This is a construct for CDK development with TypeScript to provision a vpc in your AWS account.
 
@@ -26,4 +26,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 > cdk deploy --profile prod
 
 ### Screenshots
-![Cdk Deploy](https://github.com/clarizalooktech/aws-cdkv2-vpc-construct/blob/main/vpc-cdk-deploy.JPG)
+![Cdk Deploy](https://github.com/clarizalooktech/aws-cdkv2-vpc-construct/blob/main/vpc-cdk-deploy.JPG width="400" height="400")
