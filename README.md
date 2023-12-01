@@ -41,4 +41,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 
 ##### cdk destroy
-<img src="https://github.com/clarizalooktech/aws-cdkv2-vpc-construct/blob/main/vpc-cdk-deploy2.JPG" alt="CDK Deploy time" width="70%" height="70%" >
+<img src="https://github.com/clarizalooktech/aws-cdkv2-vpc-construct/blob/main/vpc-cdk-destroy.JPG" alt="CDK Deploy time" width="70%" height="70%" >
