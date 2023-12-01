@@ -26,4 +26,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 > cdk deploy --profile prod
 
 ### Screenshots
-![Cdk Deploy](https://github.com/clarizalooktech/aws-cdkv2-vpc-construct/blob/main/vpc-cdk-deploy.JPG width="400" height="400")
+<img src="https://github.com/clarizalooktech/aws-cdkv2-vpc-construct/blob/main/vpc-cdk-deploy.JPG" alt="CDK Deploy" width="70%" height="70%" >
